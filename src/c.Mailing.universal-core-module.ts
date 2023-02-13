@@ -2,8 +2,8 @@ import { Mailing, MailingOptions } from '@universal-packages/background-jobs-mai
 import { CoreModule } from '@universal-packages/core'
 
 export default class MailingModule extends CoreModule<MailingOptions> {
-  public static readonly moduleName = 'jobs-module'
-  public static readonly description = 'Background jobs core module wrapper'
+  public static readonly moduleName = 'mailing-module'
+  public static readonly description = 'Background jobs mailing core module wrapper'
   public static readonly defaultConfig: MailingOptions = { emailsLocation: './src' }
 
   public subject: Mailing
