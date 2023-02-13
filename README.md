@@ -1,15 +1,15 @@
 # Core Background Jobs Mailing
 
-[![npm version](https://badge.fury.io/js/@universal-packages%2Fcore-background-jobs-mailings.svg)](https://www.npmjs.com/package/@universal-packages/core-background-jobs-mailings)
-[![Testing](https://github.com/universal-packages/universal-core-background-jobs-mailings/actions/workflows/testing.yml/badge.svg)](https://github.com/universal-packages/universal-core-background-jobs-mailings/actions/workflows/testing.yml)
-[![codecov](https://codecov.io/gh/universal-packages/universal-core-background-jobs-mailings/branch/main/graph/badge.svg?token=CXPJSN8IGL)](https://codecov.io/gh/universal-packages/universal-core-background-jobs-mailings)
+[![npm version](https://badge.fury.io/js/@universal-packages%2Fcore-background-jobs-mailing.svg)](https://www.npmjs.com/package/@universal-packages/core-background-jobs-mailing)
+[![Testing](https://github.com/universal-packages/universal-core-background-jobs-mailing/actions/workflows/testing.yml/badge.svg)](https://github.com/universal-packages/universal-core-background-jobs-mailing/actions/workflows/testing.yml)
+[![codecov](https://codecov.io/gh/universal-packages/universal-core-background-jobs-mailing/branch/main/graph/badge.svg?token=CXPJSN8IGL)](https://codecov.io/gh/universal-packages/universal-core-background-jobs-mailing)
 
 [Background Jobs Mailing](https://github.com/universal-packages/universal-background-jobs-mailing) universal-core module abstraction.
 
 ## Install
 
 ```shell
-npm install @universal-packages/core-background-jobs-mailings
+npm install @universal-packages/core-background-jobs-mailing
 
 npm install @universal-packages/core-background-jobs
 ```
