@@ -1,4 +1,5 @@
 import { Logger } from '@universal-packages/logger'
+
 import { MailingModule } from '../src'
 
 describe('MailingModule', (): void => {
