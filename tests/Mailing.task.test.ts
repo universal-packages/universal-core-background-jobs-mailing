@@ -5,7 +5,7 @@ import MailingTask from '../src/Mailing.universal-core-task'
 
 jest.mock('@universal-packages/template-populator')
 
-describe('MailingTask', (): void => {
+describe(MailingTask, (): void => {
   it('behaves as expected', async (): Promise<void> => {
     const logger = new Logger({ silence: true })
 
