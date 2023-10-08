@@ -31,16 +31,15 @@ mailingSubject.send()
 core.coreModules.mailingModule.subject.send()
 ```
 
-### Typescript
+## Typescript
 
 In order for typescript to see the `mailingSubject` global you need to reference the types somewhere in your project, normally `./src/globals.ts`.
 
-This is not really necessary since the `Mailing` interface enable Email classes to be able to send themselves so make sure to do that instead.
-
-## Typescript
+```ts
+/// <reference types="@universal-packages/core-background-jobs-mailing" />
+```
 
 This library is developed in TypeScript and shipped fully typed.
-
 ## Contributing
 
 The development of this library happens in the open on GitHub, and we are grateful to the community for contributing bugfixes and improvements. Read below to learn how you can take part in improving this library.
