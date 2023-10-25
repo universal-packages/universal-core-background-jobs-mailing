@@ -1,0 +1,5 @@
+jobsLocation: './tests/__fixtures__'
+queue: test
+waitTimeIfEmptyRound: 0
+additional:
+  - conventionPrefix: email
