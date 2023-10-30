@@ -19,7 +19,7 @@
     "@universal-packages/background-jobs-mailing": "^1.0.12"
   },
   "peerDependencies": {
-    "@universal-packages/core-background-jobs": "^1.2.20"
+    "@universal-packages/core-background-jobs": "^1.2.21"
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^4.2.0",
