@@ -1,10 +1,12 @@
-# Core Background Jobs Mailing
+# [Deprecated] Core Background Jobs Mailing
 
 [![npm version](https://badge.fury.io/js/@universal-packages%2Fcore-background-jobs-mailing.svg)](https://www.npmjs.com/package/@universal-packages/core-background-jobs-mailing)
 [![Testing](https://github.com/universal-packages/universal-core-background-jobs-mailing/actions/workflows/testing.yml/badge.svg)](https://github.com/universal-packages/universal-core-background-jobs-mailing/actions/workflows/testing.yml)
 [![codecov](https://codecov.io/gh/universal-packages/universal-core-background-jobs-mailing/branch/main/graph/badge.svg?token=CXPJSN8IGL)](https://codecov.io/gh/universal-packages/universal-core-background-jobs-mailing)
 
 [Background Jobs Mailing](https://github.com/universal-packages/universal-background-jobs-mailing) universal-core module abstraction.
+
+> Deprecated: Mailing for background jobs is a loader now, no need for core to load it as a module. 
 
 ## Install
 
